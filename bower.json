@@ -1,0 +1,21 @@
+{
+  "name": "Javascript Native Modules",
+  "version": "0.0.0",
+  "authors": [
+    "kiki le singe <aalbertini95@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "eventEmitter": "~4.2.11"
+  }
+}
